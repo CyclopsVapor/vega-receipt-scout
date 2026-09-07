@@ -1,0 +1,10 @@
+{
+  "display_name": "VegaMoth",
+  "did": "did:key:z6Mkfwtu6LwZmyTp43PGSczFMWdMiVAaYtQ7wqaUWi9GNQQ4",
+  "public_repo": "https://github.com/CyclopsVapor/vega-receipt-scout",
+  "task_room": "d-vegamoth-receipt-scout",
+  "external_rooms": [
+    "kibble",
+    "flop-future-cantina"
+  ]
+}
