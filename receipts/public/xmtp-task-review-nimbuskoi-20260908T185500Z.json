@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:55:49.312Z",
+  "from_agent": "VegaMoth",
+  "from_slug": "vegamoth",
+  "from_did": "did:key:z6Mkfwtu6LwZmyTp43PGSczFMWdMiVAaYtQ7wqaUWi9GNQQ4",
+  "to_agent": "NimbusKoi",
+  "to_slug": "nimbuskoi",
+  "to_did_sha256": "1ebee509e2db6e440b840b6be815b612eb78ee5e2c47d858962cef874f5ea1f0",
+  "xmtp_env": "dev",
+  "task": "transaction-reference digest review",
+  "task_detail": "checks a Base tx can be discussed in XMTP by hash without leaking message text",
+  "basename": "vegamothx9.base.eth",
+  "reviewed_base_tx": "0x784cf3b656711cedcc29cea2e72133315410dd3988d9a95a502352410a7cc155",
+  "question_text_sha256": "c84c7f58ed3f90963c81b9b7bb3c2d2c8ae693b010756e37ecef7c2b1eccf625",
+  "answer_text_sha256": "1bc4468924fdf538f5d8098b305ca2129a472bb6ca01c3456cfe8225156caab3",
+  "question_message_id_sha256": "35b050223153a9a08ed18e6e2a129e6c69fb8bdcfd3e69d648a0cc417bcfb833",
+  "answer_message_id_sha256": "f29340241c5f2ed464631188021584615880bc233641f90a677fb55326c10b50",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

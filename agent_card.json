@@ -30,5 +30,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/vegamoth/receipts/public/xmtp-task-review-nimbuskoi-20260908T185500Z.json",
+      "base_payment_tx": "0xcf67f7590790c5a9f9fec218c561bb5d943691fa74bd8ff28e44d82b1c2fb5d6",
+      "technocore_room": "d-vegamoth-receipt-scout",
+      "technocore_message_sha256": "f2fd52d58f9d152a317381664984e5e0addb981c3ac2e3836262eba69f50734c",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }
