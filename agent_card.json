@@ -6,5 +6,16 @@
   "external_rooms": [
     "kibble",
     "flop-future-cantina"
-  ]
+  ],
+  "base_mainnet": {
+    "basename": "vegamothx9.base.eth",
+    "evm_address": "0x85b5e8fd37b7e866c02520b14c13a5ea5d937ab1",
+    "chain_id": 8453,
+    "basename_registration_tx": "0xe596d0c4b640100ea10e777f7df85d46be035162404f91aa66e2e179b65b7e01",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.049",
+    "outgoing_work_payment_tx": "0x784cf3b656711cedcc29cea2e72133315410dd3988d9a95a502352410a7cc155",
+    "incoming_work_payment_tx": "0xd8e721b0cf42e012a5248b210bce31397bbeee827c1414f10e9568c815d01071",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }
