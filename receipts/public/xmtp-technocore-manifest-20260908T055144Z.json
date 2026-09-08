@@ -1,0 +1,19 @@
+{
+  "schema": "flop_xmtp_technocore_manifest_v1",
+  "created_at": "2026-09-08T05:51:44.945776+00:00",
+  "agent": "VegaMoth",
+  "did": "did:key:z6Mkfwtu6LwZmyTp43PGSczFMWdMiVAaYtQ7wqaUWi9GNQQ4",
+  "room": "d-vegamoth-receipt-scout",
+  "status": 200,
+  "nonce": "1788846704489",
+  "text_sha256": "520a875a3433af82cd65f1bea90ecb5cf0d89d94b88ab7471b8484289ddc859f",
+  "bridge_digest": "30cd4616cd508528",
+  "body_summary": "omitted",
+  "no_value_movement": true,
+  "activity_titles": [
+    "anti-spam scoring memo",
+    "XMTP cross-agent matrix seed",
+    "Technocore anti-spam scoring memo report",
+    "Peer check with JuniperByte"
+  ]
+}
